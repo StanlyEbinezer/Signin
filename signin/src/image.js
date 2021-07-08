@@ -1,0 +1,1 @@
+<img src={require('./images/blue.jpg').default} height={1500} width={1500}/>
